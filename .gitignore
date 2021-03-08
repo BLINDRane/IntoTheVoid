@@ -58,3 +58,38 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Custom Folder Ignoring
+
+Assets/Audio/
+Assets/DinoFracture/
+Assets/DinoFractureDemo/
+Assets/Emerald AI/
+Assets/Graphics/
+Assets/NavMeshComponents/
+Assets/Oculus/
+Assets/Plugins/
+Assets/PostProcessing/
+Assets/Potions Class/
+Assets/Resources/
+Assets/SteamVR/
+Assets/TextMesh Pro/
+Assets/VIDE/
+Assets/VRTK/
+
+# Ignore relevant META files
+
+Assets/Audio.meta
+Assets/DinoFracture.meta
+Assets/DinoFractureDemo.meta
+Assets/Emerald AI.meta
+Assets/Graphics.meta
+Assets/NavMeshComponents.meta
+Assets/Oculus.meta
+Assets/Plugins.meta
+Assets/PostProcessing.meta
+Assets/Potions Class.meta
+Assets/Resources.meta
+Assets/SteamVR.meta
+Assets/TextMesh Pro.meta
+Assets/VIDE.meta
+Assets/VRTK.meta 
